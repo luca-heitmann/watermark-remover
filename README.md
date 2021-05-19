@@ -24,6 +24,6 @@ Requirements:
 Replace <WATERMARK_TEXT> with the text of the watermark to remove!
 
 ### Development
-SCM: https://github.com/luca-heitmann/watermark-remover
-CI: https://hub.docker.com/repository/docker/lucaheitmann/watermark-remover
+- SCM: https://github.com/luca-heitmann/watermark-remover
+- CI: https://hub.docker.com/repository/docker/lucaheitmann/watermark-remover
 
